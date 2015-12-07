@@ -1,0 +1,11 @@
+C:\Users\Perlat\Desktop\ESTA\ESTA\bin\Debug\ESTA.exe.config
+C:\Users\Perlat\Desktop\ESTA\ESTA\bin\Debug\ESTA.exe
+C:\Users\Perlat\Desktop\ESTA\ESTA\bin\Debug\ESTA.pdb
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.MainApp.resources
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.Help_Form.resources
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.Start.resources
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.Properties.Resources.resources
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.csproj.GenerateResource.Cache
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.exe
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.pdb
+C:\Users\Perlat\Desktop\ESTA\ESTA\obj\Debug\ESTA.csprojResolveAssemblyReference.cache
